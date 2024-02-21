@@ -1,0 +1,42 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                                 X
+X   X                                                             X
+X   X                                                             X
+X   X                     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX      X
+X   X                                                      X      X
+X   X                                                      X      X
+X   X             XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX      X
+X   X                                                      X      X
+X   X                                                      X      X
+X   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX      X
+X              X                                                  X
+X              XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                         X       X
+X                                                 XXX     X       X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX         X       X   X   X
+X                                        X        X       X   X   X
+X                                        X        X       X   X   X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX        X        X       X   X   X
+X                   X           X        X        X       X   X   X
+X               X   X           X        X        X       X   X   X
+XXXXXXXXXXXX    X   X     X     X        X        X       X   X   X
+X               X   X     X     X        X        X       X   X   X
+X    XXXXXXXXXXXX   X     X     X        X        X       X   X   X
+X               X   X     X     X                 X       X   X   X
+XXXXXXXXXXX     X   X     X     X                 X       X   X   X
+X               X   X     X     XXXXXXXXXXXXXXXXXXX       X   X   X
+X    XXXXXXXXXXXX         X                               X   X   X
+X               X         X                               X   X   X
+X               XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   X   X
+X                                                         X   X   X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   X   X   X
+X                                                     X   X   X   X
+X      X                                              X       X   X
+X      X                                              XXXXXXXXX   X
+X      X                                                      X   X
+X      X                                                          X
+X      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                                 X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+start 20, 2
+end 65, 38
