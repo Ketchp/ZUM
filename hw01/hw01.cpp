@@ -8,7 +8,6 @@
 #include <cassert>
 #include <queue>
 #include <functional>
-#include <chrono>
 #include <thread>
 
 
@@ -52,7 +51,7 @@ private:
 };
 
 
-struct position: std::pair<int, int> {
+struct position: public std::pair<int, int> {
     using std::pair<int, int>::pair;
 
     int &x() {return std::pair<int, int>::first;};
@@ -547,11 +546,11 @@ struct Input {
 
 int main(int argc, char *argv[]) {
     if(argc < 2) {
-        std::cerr << "Missing file, usage: " << argv[0] << "file mode [-OPTIONS]" << std::endl;
+        std::cerr << "Missing file, usage: " << argv[0] << " file mode [-OPTIONS]" << std::endl;
         return 1;
     }
     if(argc < 3) {
-        std::cerr << "Missing mode, usage: " << argv[0] << "file mode [-OPTIONS]" << std::endl;
+        std::cerr << "Missing mode, usage: " << argv[0] << " file mode [-OPTIONS]" << std::endl;
         return 1;
     }
 
